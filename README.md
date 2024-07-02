@@ -7,4 +7,5 @@ PyTorch Generative AI tutorials
 * [RTX 4090 Monthly Rental](https://buy.stripe.com/4gw7v68xa7tsgVy004)
 
 1. [mlp](mlp.ipynb)
+1. [cnn](cnn.ipynb)
 1. [autoencoder](autoencoder.ipynb)
