@@ -9,3 +9,4 @@ PyTorch Generative AI tutorials
 1. [mlp](mlp.ipynb)
 1. [cnn](cnn.ipynb)
 1. [autoencoder](autoencoder.ipynb)
+1. [vae fashion](vae_fashion.ipynb)
