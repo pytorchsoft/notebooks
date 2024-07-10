@@ -2,3 +2,4 @@ tensorboard
 torchinfo
 safetensors
 gdown
+pandas
