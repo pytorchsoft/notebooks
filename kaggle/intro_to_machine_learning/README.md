@@ -1,0 +1,7 @@
+1. [How Models Work](how-models-work.ipynb)
+2. [Basic Data Exploration](basic-data-exploration.ipynb)
+3. [Your First Machine Learning Model](your-first-machine-learning-model.ipynb)
+4. [Model Validation](model-validation.ipynb)
+5. [Underfitting and Overfitting](underfitting-and-overfitting.ipynb)
+6. [Random Forests](random-forests.ipynb)
+7. [Machine Learning Competitions](machine-learning-competitions.ipynb)
