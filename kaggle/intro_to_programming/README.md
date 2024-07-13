@@ -1,0 +1,5 @@
+1. [Arithmetic and Variables](arithmetic-and-variables.ipynb)
+2. [Functions](functions.ipynb)
+3. [Data Types](data-types.ipynb)
+4. [Conditions and Conditional Statements](conditions-and-conditional-statements.ipynb)
+5. [Intro to Lists](intro-to-lists.ipynb)
