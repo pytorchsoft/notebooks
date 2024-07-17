@@ -1,0 +1,8 @@
+1. [Hello, Seaborn](hello-seaborn.ipynb)
+2. [Line Charts](line-charts.ipynb)
+3. [Bar Charts and Heatmaps](bar-charts-and-heatmaps.ipynb)
+4. [Scatter Plots](scatter-plots.ipynb)
+5. [Distributions](distributions.ipynb)
+6. [Choosing Plot Types and Custom Styles](choosing-plot-types-and-custom-styles.ipynb)
+7. [Final Project](final-project.ipynb)
+8. [Creating Your Own Notebooks](creating-your-own-notebooks.ipynb)
