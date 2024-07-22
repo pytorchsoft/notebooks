@@ -11,3 +11,4 @@ PyTorch Generative AI tutorials
 1. [autoencoder](autoencoder.ipynb)
 1. [vae fashion](vae_fashion.ipynb)
 1. [vae faces](vae_faces.ipynb)
+1. [dcgan](dcgan.ipynb)

@@ -3,3 +3,4 @@ torchinfo
 safetensors
 gdown
 pandas
+kaggle
